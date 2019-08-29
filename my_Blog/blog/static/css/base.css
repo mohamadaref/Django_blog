@@ -1,0 +1,20 @@
+.container{
+
+}
+
+body{
+	background-color: #e9ecefde;
+}
+
+html {
+width:100%
+padding:70px 0px 70px 0px;
+background-image: url('../images/2.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+height: 100%;
+}
+
+h2 {
+  color: green;
+}
